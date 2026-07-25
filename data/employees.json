@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Ada Testperson", "age": 34, "department": "Engineering" },
+  { "id": 2, "name": "Bob Placeholder", "age": 41, "department": "Marketing" },
+  { "id": 3, "name": "Carol Example", "age": 29, "department": "HR" },
+  { "id": 4, "name": "Dan Fictional", "age": 52, "department": "Finance" },
+  { "id": 5, "name": "Eve Sampleton", "age": 26, "department": "Engineering" }
+]
